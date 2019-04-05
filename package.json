@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+        "alexa-sdk": "^1.0.25",
+        "ask-sdk": "^2.5.1",
+        "request": "^2.88.0",
+        "spotify-web-api-node": "^4.0.0"
+    }
+}
